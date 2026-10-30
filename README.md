@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="GV Space" width="100%" />
+<img src="banner.png" alt="GV Space" width="100%" />
 
 # GV SPACE
 
